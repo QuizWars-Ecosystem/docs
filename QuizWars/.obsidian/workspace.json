@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "16f8a4b699acf244",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39ecf4d3e028fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c9e837b5fe22a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiz Wars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quiz Wars"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74a52e8de95b220f",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f6eec3115ee747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c9cb1be1e2b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd6e4dab7451ff31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1e48bda772fac70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76ac7f58382dfb91",
+    "type": "split",
+    "children": [
+      {
+        "id": "87d8b428881fb5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac69b76e267bede",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quiz Wars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quiz Wars"
+            }
+          },
+          {
+            "id": "0de5e6842570a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quiz Wars.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quiz Wars"
+            }
+          },
+          {
+            "id": "819ab827cce65495",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c8d5aa28a532bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quiz Wars.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quiz Wars"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3c9e837b5fe22a0",
+  "lastOpenFiles": [
+    "tech/Server Scheme.canvas",
+    "Quiz Wars.md",
+    "tech/Server Table.md",
+    "tech/services/Users Service (RUS).md",
+    "deploy/stage/Server Setup Guide (RUS).md",
+    "deploy/stage/Server Setup Guide (ENG).md",
+    "tech/gateway/API-Gateway (ENG).md",
+    "tech/gateway/API-Gateway (RUS).md",
+    "attachments/Pasted image 20250421231611.png",
+    "tech/gateway/Server Table.md",
+    "attachments/Pasted image 20250421231254.png",
+    "tech/services/Questions Service (RUS).md",
+    "attachments/Screenshot 2025-04-21 2153.png",
+    "attachments/Screenshot 2025-04-21 2134.png",
+    "attachments/Screenshot 2025-04-21 212317 2.png",
+    "attachments/Screenshot 2025-04-21 212317 1.png",
+    "attachments/Screenshot 2025-04-21 212317.png",
+    "attachments/Screenshot 2025-04-21 204948.png",
+    "attachments",
+    "Untitled.canvas",
+    "deploy/stage",
+    "2025-04-21.md",
+    "Untitled.md",
+    "Untitled",
+    "deploy",
+    "tech/gateway",
+    "tech/services",
+    "tech",
+    "Welcome.md"
+  ]
+}

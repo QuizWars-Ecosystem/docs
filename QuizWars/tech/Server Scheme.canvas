@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"372490e3eef3f8a6","type":"file","file":"tech/gateway/API-Gateway (RUS).md","x":-500,"y":-180,"width":400,"height":400,"color":"#009dff"},
+		{"id":"74f214c160232a78","type":"file","file":"tech/services/Users Service (RUS).md","x":20,"y":-180,"width":400,"height":400,"color":"4"},
+		{"id":"4b81af26686600fa","type":"file","file":"tech/services/Questions Service (RUS).md","x":540,"y":-180,"width":400,"height":400,"color":"6"}
+	],
+	"edges":[]
+}
