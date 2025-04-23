@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b39ecf4d3e028fcb",
+        "id": "b7959efdeff42806",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c9e837b5fe22a0",
+            "id": "9e56969e0901d5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz Wars.md",
-                "mode": "source",
+                "file": "tech/grpc/external/users/v1/API-Reference.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz Wars"
+              "title": "API-Reference"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quiz Wars.md",
+                "file": "tech/services/Users Service (RUS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quiz Wars"
+              "title": "Backlinks for Users Service (RUS)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quiz Wars.md",
+                "file": "tech/services/Users Service (RUS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quiz Wars"
+              "title": "Outgoing links from Users Service (RUS)"
             }
           },
           {
@@ -142,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quiz Wars.md",
+                "file": "tech/services/Users Service (RUS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quiz Wars"
+              "title": "Outline of Users Service (RUS)"
+            }
+          },
+          {
+            "id": "2ac1066e67b6f772",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,18 +176,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c9e837b5fe22a0",
+  "active": "9e56969e0901d5c4",
   "lastOpenFiles": [
+    "tech/grpc/external/questions/v1/API-Reference.md",
+    "tech/grpc/external/users/v1/API-Reference.md",
+    "tech/grpc/external/users/v1/UsersAdminService.md",
+    "tech/grpc/external/users/v1/UsersSocialService.md",
+    "tech/grpc/external/users/v1",
+    "tech/grpc/external/questions/v1",
+    "tech/grpc/external/users",
+    "tech/grpc/external/questions",
+    "tech/grpc/external",
+    "tech/grpc/external/users/v1/Proto.md",
+    "tech/grpc/external/questions/v1/Proto.md",
+    "tech/grpc/Proto.md",
+    "tech/grpc/external/users/v1/proto.md",
+    "tech/grpc/index.txt",
+    "tech/services/Users Service (RUS).md",
+    "tech/grpc/external/questions/v1/proto.md",
+    "tech/grpc",
+    "tech/grpc/markdown.md",
+    "tech/grpc/doc.md",
+    "tech/grpc/markdown",
+    "tech/grpc",
+    "tech/grpc/external/users/v1/doc.md",
+    "tech/gateway/API-Gateway (ENG).md",
+    "tech/grpc/external/questions/v1/doc.md",
+    "tech/grpc/external/users/v1/docs.md",
+    "tech/grpc/external/questions/v1/docs.md",
     "tech/Server Scheme.canvas",
+    "game/Modes (RUS).md",
+    "game",
     "Quiz Wars.md",
     "tech/Server Table.md",
-    "tech/services/Users Service (RUS).md",
     "deploy/stage/Server Setup Guide (RUS).md",
     "deploy/stage/Server Setup Guide (ENG).md",
-    "tech/gateway/API-Gateway (ENG).md",
     "tech/gateway/API-Gateway (RUS).md",
     "attachments/Pasted image 20250421231611.png",
     "tech/gateway/Server Table.md",
@@ -188,16 +227,7 @@
     "attachments/Screenshot 2025-04-21 212317 1.png",
     "attachments/Screenshot 2025-04-21 212317.png",
     "attachments/Screenshot 2025-04-21 204948.png",
-    "attachments",
     "Untitled.canvas",
-    "deploy/stage",
-    "2025-04-21.md",
-    "Untitled.md",
-    "Untitled",
-    "deploy",
-    "tech/gateway",
-    "tech/services",
-    "tech",
-    "Welcome.md"
+    "2025-04-21.md"
   ]
 }

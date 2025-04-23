@@ -2,6 +2,6 @@
   "theme": "system",
   "cssTheme": "Atom",
   "interfaceFontFamily": "Helvetica,Inter,Palatino",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "baseFontSizeAction": true
 }

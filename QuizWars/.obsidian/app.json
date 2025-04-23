@@ -4,5 +4,9 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "useMarkdownLinks": false
 }
