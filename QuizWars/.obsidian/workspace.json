@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7959efdeff42806",
+        "id": "7112257825afc47c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e56969e0901d5c4",
+            "id": "c3df56b914c483d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/side servers/Python Server Crawler.md",
+                "file": "tech/Server Table.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Server Crawler"
+              "title": "Server Table"
             }
           }
         ]
@@ -181,12 +181,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c9cb1be1e2b9dc",
+  "active": "c3df56b914c483d6",
   "lastOpenFiles": [
+    "Quiz Wars.md",
+    "tech/Server Table.md",
+    "tech/Server Scheme.canvas",
+    "tech/services/Users Service (RUS).md",
+    "tech/services/Questions Service (RUS).md",
+    "[[tech/grpc/external/questions/v1",
+    "[[tech/grpc/external/questions",
+    "[[tech/grpc/external",
+    "[[tech/grpc",
+    "[[tech",
+    "tech/side servers/Python Server Crawler.md",
     "tech/grpc/external/users/v1/API-Reference.md",
     "tech/grpc/external/questions/v1/API-Reference.md",
-    "tech/side servers/Python Server Crawler.md",
-    "tech/Server Scheme.canvas",
     "tech/side servers",
     "tech/grpc/external/users/v1/UsersAdminService.md",
     "tech/grpc/external/users/v1/UsersSocialService.md",
@@ -194,32 +203,23 @@
     "tech/grpc/external/questions/v1",
     "tech/grpc/external/users",
     "tech/grpc/external/questions",
-    "tech/grpc/external",
     "tech/grpc/external/users/v1/Proto.md",
     "tech/grpc/external/questions/v1/Proto.md",
     "tech/grpc/Proto.md",
     "tech/grpc/external/users/v1/proto.md",
-    "tech/grpc/index.txt",
-    "tech/services/Users Service (RUS).md",
     "tech/grpc/external/questions/v1/proto.md",
-    "tech/grpc",
     "tech/grpc/markdown.md",
     "tech/grpc/doc.md",
-    "tech/grpc/markdown",
-    "tech/grpc",
     "tech/grpc/external/users/v1/doc.md",
     "tech/gateway/API-Gateway (ENG).md",
     "tech/grpc/external/questions/v1/doc.md",
     "tech/grpc/external/users/v1/docs.md",
     "tech/grpc/external/questions/v1/docs.md",
     "game/Modes (RUS).md",
-    "Quiz Wars.md",
-    "tech/Server Table.md",
     "deploy/stage/Server Setup Guide (RUS).md",
     "deploy/stage/Server Setup Guide (ENG).md",
     "tech/gateway/API-Gateway (RUS).md",
     "attachments/Pasted image 20250421231611.png",
-    "tech/gateway/Server Table.md",
     "attachments/Pasted image 20250421231254.png",
     "attachments/Screenshot 2025-04-21 2153.png",
     "attachments/Screenshot 2025-04-21 2134.png",

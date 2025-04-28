@@ -9,5 +9,12 @@
 > 	- [[Server Table]]
 > 	-  [[API-Gateway (ENG)]] | [[API-Gateway (RUS)]]
 > 
+> Services
+> 	 - Users: [[tech/grpc/external/users/v1/API-Reference|API-Reference]] 
+> 	 - Questions: [[tech/grpc/external/questions/v1/API-Reference|API-Reference]]
+> 	
+> Side Servers
+> 	- [[Python Server Crawler]]
+> 
 > Deploy
 > 	-  [[Server Setup Guide (ENG)]] | [[Server Setup Guide (RUS)]]

@@ -2,7 +2,7 @@
 
 ### Default ports table
 
-| **Name**           | http | tcp   | grpc  | websocket |
+| **Name**           | HTTP | TCP   | gRPC  | WebSocket |
 | :----------------- | ---- | ----- | ----- | --------- |
 | api-gateway        | 8080 | 8081  | 8082  | 8083      |
 | consul             | 8555 |       | 8502  |           |
