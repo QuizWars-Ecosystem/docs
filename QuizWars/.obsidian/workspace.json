@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7112257825afc47c",
+        "id": "bf566462ddd3dcbf",
         "type": "tabs",
         "children": [
           {
-            "id": "c3df56b914c483d6",
+            "id": "9b6c0056062d4d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Server Table.md",
+                "file": "tech/grpc/external/users/v1/API-Reference.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server Table"
+              "title": "API-Reference"
+            }
+          },
+          {
+            "id": "29358c38450c4e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/clients/Kotlin Client.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kotlin Client"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,14 +175,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "eb14cd48f21f286d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3df56b914c483d6",
+  "active": "29358c38450c4e68",
   "lastOpenFiles": [
+    "tech/grpc/external/users/v1/API-Reference.md",
+    "tech/clients/Kotlin Client.md",
+    "tech/gateway/API-Gateway (ENG).md",
+    "tech/Untitled.md",
+    "tech/clients",
     "Quiz Wars.md",
     "tech/Server Table.md",
     "tech/Server Scheme.canvas",
@@ -194,7 +223,6 @@
     "[[tech/grpc",
     "[[tech",
     "tech/side servers/Python Server Crawler.md",
-    "tech/grpc/external/users/v1/API-Reference.md",
     "tech/grpc/external/questions/v1/API-Reference.md",
     "tech/side servers",
     "tech/grpc/external/users/v1/UsersAdminService.md",
@@ -202,7 +230,6 @@
     "tech/grpc/external/users/v1",
     "tech/grpc/external/questions/v1",
     "tech/grpc/external/users",
-    "tech/grpc/external/questions",
     "tech/grpc/external/users/v1/Proto.md",
     "tech/grpc/external/questions/v1/Proto.md",
     "tech/grpc/Proto.md",
@@ -211,14 +238,12 @@
     "tech/grpc/markdown.md",
     "tech/grpc/doc.md",
     "tech/grpc/external/users/v1/doc.md",
-    "tech/gateway/API-Gateway (ENG).md",
     "tech/grpc/external/questions/v1/doc.md",
     "tech/grpc/external/users/v1/docs.md",
     "tech/grpc/external/questions/v1/docs.md",
     "game/Modes (RUS).md",
     "deploy/stage/Server Setup Guide (RUS).md",
     "deploy/stage/Server Setup Guide (ENG).md",
-    "tech/gateway/API-Gateway (RUS).md",
     "attachments/Pasted image 20250421231611.png",
     "attachments/Pasted image 20250421231254.png",
     "attachments/Screenshot 2025-04-21 2153.png",
