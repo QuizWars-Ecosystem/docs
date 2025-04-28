@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/additional/Python Server Crawler.md",
+                "file": "tech/side servers/Python Server Crawler.md",
                 "mode": "preview",
                 "source": false
               },
@@ -181,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e56969e0901d5c4",
+  "active": "47c9cb1be1e2b9dc",
   "lastOpenFiles": [
     "tech/grpc/external/users/v1/API-Reference.md",
     "tech/grpc/external/questions/v1/API-Reference.md",
-    "tech/additional/Python Server Crawler.md",
+    "tech/side servers/Python Server Crawler.md",
     "tech/Server Scheme.canvas",
-    "tech/additional",
+    "tech/side servers",
     "tech/grpc/external/users/v1/UsersAdminService.md",
     "tech/grpc/external/users/v1/UsersSocialService.md",
     "tech/grpc/external/users/v1",
